@@ -2,7 +2,7 @@
 <h3 align="center">Turning dreams into responsive, interactive web realities 💻💡 | Code, design, and a whole lot of passion 🚀🎨</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🔭 I’m currently working on **Realtime WhiteBoard**
+- 🔭 I’m currently working on **DevConnect**
 
 - 🌱 I’m currently learning **backend and advance DSA in JAVA**
 
